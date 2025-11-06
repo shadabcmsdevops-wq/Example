@@ -1,1 +1,1 @@
-Hello from feature
+Hello master and feature
